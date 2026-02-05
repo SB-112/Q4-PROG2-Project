@@ -1,3 +1,0 @@
-1001,John Doe,1
-1002,Jane Smith,2
-1003,Bob Johnson,3
